@@ -1,0 +1,11 @@
+#one,#two,#three,#four,#five{
+    background-color: wheat;
+    width: 800px;
+    height: 100px;
+    padding-left:20px ;
+   h3{
+    margin-top: 20px;
+    padding-top: 20px;
+   }
+
+}
